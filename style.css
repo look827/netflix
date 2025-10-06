@@ -1,0 +1,46 @@
+.yo p {
+    color: red;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    stroke-width: 25%;
+
+}
+
+.yo iframe {
+    border-radius: 20px;
+
+}
+
+.yo img {
+    border-radius: 20px;
+
+}
+
+.yo h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+
+
+}
+
+
+.yo1 iframe {
+    border-radius: 20px;
+
+}
+
+.yo1 img {
+    border-radius: 20px;
+
+}
+
+.yo1 h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+
+}
+
+body {
+    background-color: black;
+}
